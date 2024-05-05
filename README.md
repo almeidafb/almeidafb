@@ -1,7 +1,7 @@
 # Fabio Almeida
 
 # 💫 About Me :
-I am an experienced C# developer with a focus on automation and system integration. I work as a Systems Analyst at Águia Sistemas de Armazenagem S/A for over 9 years. I have skills in designing, developing, integrating, testing and implementing business solutions in information systems. Additionally, I am experienced in managing SQL Server, Oracle, and PostgreSQL databases.
+I am an experienced C# developer with a focus on automation and system integration. I work as a Systems Analyst at Águia Sistemas de Armazenagem S/A for over 10 years. I have skills in designing, developing, integrating, testing and implementing business solutions in information systems. Additionally, I am experienced in managing SQL Server, Oracle, and PostgreSQL databases.
 
 I have knowledge in developing C# ASP.NET Core MVC Web applications, using Entity Framework Code First, and I work as a full-stack developer. I also have experience in developing cloud systems, continuous integration, and source code versioning using GIT.
 
