@@ -28,11 +28,5 @@ Feel free to contact me
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=almeidafb&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=almeidafb&icon=0&color=3)](https://visitcount.itsvg.in)
