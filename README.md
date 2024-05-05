@@ -31,4 +31,3 @@ Feel free to contact me
 
 ---
 [![](https://visitcount.itsvg.in/api?id=almeidafb&icon=0&color=3)](https://visitcount.itsvg.in)
-&count_private=true
